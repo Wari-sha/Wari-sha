@@ -1,3 +1,5 @@
+  ![github-header-image (1)](https://github.com/Wari-sha/Wari-sha/assets/129937380/89dc29dc-7815-439b-87ee-838b89331ebc)
+
 - 👋 Hi, I’m @Wari-sha
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning website development
@@ -5,10 +7,6 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: she
 - ⚡ Fun fact:
-
-  <img src = "![github-header-image (1)](https://github.com/Wari-sha/Wari-sha/assets/129937380/89dc29dc-7815-439b-87ee-838b89331ebc)>
-"
-
 
 
 <!---
